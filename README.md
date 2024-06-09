@@ -1,2 +1,2 @@
 # task_oriserve
-This is a submission of task for Oriserve assessment
+This is a submission file of task for Oriserve assessment
